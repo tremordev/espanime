@@ -1,0 +1,94 @@
+AVISO LEGAL Y DESCARGO DE RESPONSABILIDAD. LEA ESTE DOCUMENTO DETENIDAMENTE ANTES DE UTILIZAR EL SOFTWARE.
+
+AUSENCIA DE ÁNIMO DE LUCRO
+Se declara explícitamente que este proyecto es una iniciativa de desarrollo de software amateur y educativo, totalmente gratuita y sin fines comerciales.
+ a) El software NO contiene publicidad pagada, banners, ni sistemas de monetización.
+ b) El desarrollador NO recibe ingresos directos ni indirectos por la distribución o uso de este software.
+ c) NO se comercializan datos de usuarios con terceros.
+
+NATURALEZA TÉCNICA Y OBJETO
+Este software ("Espanime") es una herramienta que actúa como interfaz de presentación entre Kodi y páginas web de contenido audiovisual de anime. El addon realiza acceso a sitios web públicos de terceros, cargando la información expuesta públicamente (títulos, miniaturas, enlaces a reproductores) y presentándola en la interfaz de Kodi.
+No existe una base de datos interna de enlaces ni un repositorio precargado de contenido, cada resultado se obtiene dinámicamente al ejecutar la consulta del usuario, actuando de forma similar a un navegador web estándar.
+El contenido accesible a través de este addon también es accesible mediante un navegador web convencional visitando directamente los sitios web de origen.
+
+AUSENCIA DE ALOJAMIENTO Y DISTRIBUCIÓN
+En relación al funcionamiento técnico del software, se hace constar expresamente que:
+ a) Este software NO contiene, almacena, distribuye, comunica públicamente ni aloja ningún archivo de vídeo, audio o material audiovisual protegido por derechos de autor en sus propios servidores ni en el código distribuido.
+ b) Todo el contenido reproducido a través del software es transmitido directamente ("Direct Stream") desde las plataformas de alojamiento de terceros (cyberlockers y servidores de vídeo externos) hacia el dispositivo del usuario final. El addon actúa meramente como un índice o referenciador de contenidos.
+
+POLÍTICA DE ENLACES Y ACCESO PÚBLICO
+El funcionamiento del addon consiste en acceder a sitios web públicos de terceros, interpretar su código expuesto de forma pública y presentar la información adaptada a la interfaz de Kodi. Este proceso se limita a estructurar el código HTML público de dichos sitios, sin eludir en ningún momento sistemas de autenticación, muros de pago ni mecanismos DRM.
+De conformidad con la legislación y la jurisprudencia aplicable:
+Caso C-466/12 "Svensson": la provisión de enlaces a obras de acceso libre y público en la web no constituye una comunicación al público.
+Caso C-160/15 "GS Media": la facilitación de enlaces e indexación automatizada sin ánimo de lucro goza del principio de neutralidad y ausencia de responsabilidad sobre el origen.
+De conformidad con el Art. 17 de la Ley 34/2002 de Servicios de la Sociedad de la Información (LSSI-CE), el prestador de servicios de enlace o indexación no será responsable por los contenidos enlazados cuando no tenga conocimiento efectivo de su ilicitud o, teniéndolo, actúe con diligencia para retirar o inutilizar el enlace.
+Este software no elude muros de pago ni sistemas de autenticación de usuario.
+
+CONTENIDO DE PLATAFORMAS DE TERCEROS
+Los resultados que muestra este software provienen de sitios web públicos de indexación de anime que a su vez enlazan a plataformas de alojamiento de vídeo de terceros. Todas estas plataformas operan bajo sus propias políticas de moderación de contenido y procedimientos de retirada (DMCA/Notice & Takedown).
+ a) El desarrollador de este software NO sube, selecciona, modera, valida ni tiene control alguno sobre el contenido alojado en dichas plataformas ni sobre los sitios web de indexación scrapeados.
+ b) Este software accede programáticamente (scraping) al HTML público de los sitios web de indexación para extraer las referencias a reproductores de vídeo. No utiliza APIs oficiales proporcionadas por dichas plataformas.
+ c) La responsabilidad sobre la legalidad del contenido alojado recae exclusivamente en la plataforma de alojamiento y en el usuario que lo subió, conforme a los regímenes de responsabilidad de intermediarios (Directiva 2000/31/CE en la UE, DMCA §512 en EE.UU.).
+ d) Si un titular de derechos detecta contenido infractor en dichas plataformas, debe dirigir su reclamación directamente a la plataforma de alojamiento a través de sus canales oficiales de retirada.
+
+AUSENCIA DE CURACIÓN EDITORIAL HUMANA
+El addon no realiza selección editorial humana ni moderación manual de los resultados que muestra. Aplica filtros y algoritmos automáticos para mejorar la relevancia técnica (coincidencia textual, deduplicación, ordenación por fiabilidad de servidor). La fuente, disponibilidad y existencia de los contenidos depende exclusivamente de los sitios web de terceros consultados. El desarrollador no preselecciona manualmente qué contenidos concretos aparecen ni los modera individualmente.
+
+FUNCIONALIDAD DE DESCARGA
+Este software incluye una funcionalidad opcional de descarga de vídeo que permite al usuario almacenar contenido en su dispositivo local. Esta funcionalidad se delega íntegramente en software externo (ResolveURL y youtube-dl) que el usuario debe instalar por separado.
+El usuario es el único responsable del uso que haga de esta funcionalidad. El desarrollador no induce ni promueve la descarga de material protegido, limitándose a proporcionar herramientas técnicas estándar de automatización y almacenamiento local para el uso personal que el usuario decida realizar bajo su exclusiva responsabilidad.
+
+PROPIEDAD INTELECTUAL Y MARCAS
+Todas las marcas comerciales, logotipos, carátulas y nombres mencionados en el software son propiedad exclusiva de sus respectivos dueños.
+Su uso en este software es estrictamente nominativo e informativo, amparado bajo el uso nominativo descriptivo permitido por el Art. 37.c) de la Ley de Marcas 17/2001, siendo dicho uso necesario para que el usuario identifique el contenido al que accede, y realizado conforme a las prácticas leales en materia industrial o comercial, sin sugerir patrocinio, afiliación ni endorsement por parte de los titulares. Este proyecto es una obra derivada independiente, sin ánimo de lucro, y NO tiene ninguna vinculación, patrocinio, afiliación ni autorización oficial de ningún estudio de animación, productora ni plataforma de contenido.
+
+RESPONSABILIDAD DEL USUARIO FINAL Y TÉRMINOS DE TERCEROS
+El usuario reconoce y acepta que:
+ a) Es el único responsable de asegurar que su acceso al contenido (ya sea visualización en streaming o descarga) cumple con las leyes de su jurisdicción local y con los Términos de Servicio (TOS) de las plataformas de origen.
+ b) El uso de mecanismos para eludir restricciones geográficas (VPN, Proxies) es una decisión exclusiva del usuario; el usuario asume la responsabilidad de su uso.
+ c) CUMPLIMIENTO DE TÉRMINOS DE TERCEROS: Este software es una herramienta independiente y no oficial. El usuario es el único responsable de revisar, conocer y cumplir los Términos de Servicio (TOS) de cada plataforma de contenido a la que acceda a través de este software, así como la normativa aplicable en su jurisdicción. El desarrollador no realiza ningún juicio previo sobre la compatibilidad de este software con dichos términos, cuestión cuya valoración corresponde exclusivamente al usuario y, en su caso, a los tribunales competentes.
+
+INTEGRACIÓN CON SOFTWARE EXTERNO
+Este software ofrece funcionalidades de interoperabilidad con otros addons y módulos de Kodi instalados por el usuario. Estas integraciones:
+ a) Son mecanismos de delegación que redirigen la resolución y reproducción de enlaces al software externo correspondiente.
+ b) No implican que este proyecto desarrolle, mantenga, controle o sea responsable de la funcionalidad de dichos addons externos.
+ c) La instalación y uso de cualquier addon externo es decisión y responsabilidad exclusiva del usuario.
+ d) La resolución de enlaces de vídeo se delega en ResolveURL (módulo externo de Kodi que el usuario instala voluntariamente). ResolveURL es quien gestiona la obtención de la URL directa de reproducción desde los servidores de vídeo. La descarga de contenido se delega en youtube-dl (script.module.youtube.dl), igualmente externo y de instalación voluntaria por el usuario. Espanime no implementa lógica propia de resolución de servidores de vídeo ni de descarga de streams.
+
+SERVICIOS DE TERCEROS CONSULTADOS AUTOMÁTICAMENTE
+Además de los sitios web de anime scrapeados, este software realiza conexiones automáticas a los siguientes servicios de terceros para funcionalidades auxiliares:
+ a) AniList (graphql.anilist.co): API GraphQL pública consultada para obtener metadatos enriquecidos de los animes (sinopsis, puntuación, géneros, póster HD, fanart). Las consultas incluyen el título del anime buscado. AniList puede registrar la dirección IP del usuario.
+ b) AniSkip (api.aniskip.com): API pública consultada para obtener marcas temporales de openings y endings (funcionalidad de auto-skip). Las consultas incluyen el identificador del anime y el número de episodio que el usuario está reproduciendo. AniSkip puede registrar la dirección IP del usuario.
+Ambas funcionalidades pueden desactivarse en los ajustes del addon. El usuario puede consultar las políticas de privacidad de estos servicios en sus respectivos sitios web.
+
+PRIVACIDAD Y DATOS (GDPR)
+Responsable del tratamiento: El desarrollador del software, a través de los canales de contacto indicados en el repositorio oficial del proyecto.
+ a) Ausencia de Recopilación Personal: El software no recopila ni asocia información personal o de uso con la identidad del usuario. Se limita a procesar de forma local tus preferencias de reproducción. Cualquier petición a APIs externas de terceros (como AniList o AniSkip) se realiza de forma directa desde tu dispositivo y bajo las políticas de privacidad correspondientes de dichos servicios.
+ b) Toda la información de búsquedas, favoritos, historial de reproducción y caché de metadatos se procesa y almacena exclusivamente de forma local en el dispositivo del usuario.
+ c) Las interacciones de red se realizan directamente entre el dispositivo del usuario y los siguientes servicios externos: los sitios web públicos de anime consultados, AniList, AniSkip, y los servidores de vídeo resueltos por ResolveURL. Cada uno de estos servicios tiene su propia política de privacidad y puede registrar la dirección IP y los datos de las peticiones realizadas por el usuario.
+ d) La caché de AniList almacena metadatos de anime (no datos personales) en el dispositivo del usuario durante 7 días y puede borrarse manualmente desde los ajustes del addon.
+
+LICENCIA
+El código fuente público de este proyecto se distribuye bajo licencia GPL-2.0-or-later. Se permite su uso, estudio y distribución siempre que se mantenga la atribución al autor original y este aviso legal.
+
+EXENCIÓN DE GARANTÍAS
+El software se proporciona "TAL CUAL" (AS IS), sin garantías de ningún tipo. El desarrollador no garantiza la disponibilidad continua de los servicios de terceros, los cuales pueden bloquear o modificar su acceso en cualquier momento.
+
+AVISO SOBRE VERSIONES DERIVADAS
+Si decide publicar una versión modificada, le solicitamos que utilice un nombre distintivo (por ejemplo: "NombreAddon basado en Espanime") para evitar confusión entre los usuarios y no interferir con el soporte oficial del proyecto original.
+Asimismo, se ruega encarecidamente NO incluir este software en productos comerciales. El proyecto es gratuito por filosofía y su inclusión en productos de pago contradice el espíritu de la comunidad que lo desarrolla y mantiene.
+
+RECURSOS GRÁFICOS Y MARCA
+Los recursos gráficos (iconos, fanart, logotipos) y la marca "Espanime" son propiedad exclusiva del autor y NO se distribuyen bajo licencia GPL, sino que se reservan todos los derechos. Queda expresamente prohibido el uso comercial no autorizado de la marca y de los recursos gráficos.
+
+CONTACTO PARA TITULARES DE DERECHOS
+Si usted es titular de derechos de propiedad intelectual y considera que algún elemento de este software pudiera afectar a sus derechos, le invitamos a contactar con el autor a través de los canales de contacto habilitados en el repositorio oficial antes de iniciar cualquier procedimiento formal.
+En su comunicación, le rogamos identifique con precisión el elemento concreto del código fuente que considera problemático y el derecho que estima vulnerado. Existe voluntad total de cooperación.
+
+DIVISIBILIDAD
+Si alguna disposición de este Aviso Legal fuera declarada inválida o inaplicable por una autoridad competente, dicha invalidez no afectará al resto de disposiciones, que mantendrán su plena vigencia y efecto.
+
+MODIFICACIONES DEL AVISO LEGAL
+El autor se reserva el derecho a modificar este Aviso Legal en cualquier momento. El uso continuado del software tras dichas modificaciones implica la aceptación de la versión vigente.
+
+Última actualización: junio 2026
