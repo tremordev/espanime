@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.espanime" name="Espanime" version="1.1.0" provider-name="tremordev">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.resolveurl" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="service.upnext" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py"/>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Anime en Español sin ánimo de lucro y sin publicidad</summary>
+    <description lang="es">Addon para los amantes del anime. Hecho por y para fans.</description>
+    <disclaimer lang="es">Este addon no aloja, almacena ni distribuye ningún archivo multimedia. Actúa exclusivamente como interfaz de presentación entre Kodi y sitios web públicos de terceros.[CR][CR]Proyecto sin ánimo de lucro, sin publicidad y sin ingresos del desarrollador. Destinado a uso personal y no comercial.[CR][CR]El usuario es el único responsable de que su uso del addon cumpla con la legislación de su jurisdicción y con los Términos de Servicio de las plataformas a las que acceda.[CR][CR]El uso de este software implica haber leído y aceptado el Aviso Legal completo incluido en el archivo AVISO_LEGAL.txt distribuido con el addon.</disclaimer>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <assets>
+      <icon>icon.jpg</icon>
+      <fanart>fanart.jpg</fanart>
+      <screenshot>fanart.jpg</screenshot>
+    </assets>
+  </extension>
+</addon>
