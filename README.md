@@ -1,8 +1,6 @@
-#  Espanime
+# ![Espanime](https://img.shields.io/badge/Espanime-v1.1.0-blueviolet?style=for-the-badge) — Addon para Kodi
 
-![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
-
-- Fuente: https://tremordev.github.io/espanime/
+Fuente: https://tremordev.github.io/espanime/
 
 <p align="center">
   <img src="espanime.png">
