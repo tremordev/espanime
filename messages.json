@@ -6,7 +6,7 @@
             "color": "yellow",
             "date": "2026-06-06",
             "title": "Espanime - Instalar dependencias",
-            "text": "Si algún servidor no reproduce o el addon avisa de módulos que faltan, instala sus dependencias a mano desde Kodi.\n\nDependencias opcionales:\n- script.module.resolveurl\n- script.module.yt-dlp\n- script.module.youtube.dl\n- service.upnext\n\nCómo instalarlas (con el addon ya instalado):\n1. Ajustes > Add-ons > Mis add-ons > Add-ons de vídeo > Espanime.\n2. En la ficha del addon, pulsa el botón [B]Dependencias[/B].\n3. Pulsa sobre cada dependencia que NO ponga 'Instalado'.\n4. En su ficha, pulsa [B]Instalar[/B].\n\nRepite los pasos 3 y 4 con cada dependencia pendiente. Luego reinicia el addon."
+            "text": "Si algún servidor no reproduce o el addon avisa de módulos que faltan, instala sus dependencias a mano desde Kodi.\n\n[B][COLOR yellow]Más abajo tienes el paso a paso para instalar las dependencias.[/COLOR][/B]\n\nDependencias opcionales:\n- script.module.resolveurl (importante)\n- script.module.yt-dlp\n- script.module.youtube.dl\n- service.upnext\n\nCómo instalarlas (con el addon ya instalado):\n1. Ajustes > Add-ons > Mis add-ons > Add-ons de vídeo > Espanime.\n2. En la ficha del addon, pulsa el botón [B]Dependencias[/B].\n3. Pulsa sobre cada dependencia que NO ponga 'Instalado'.\n4. En su ficha, pulsa [B]Instalar[/B].\n\nRepite los pasos 3 y 4 con cada dependencia pendiente. Luego reinicia el addon."
         }
     ]
 }
